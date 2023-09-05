@@ -136,11 +136,8 @@ params:
           url: https://scholar.google.com.br/citations?user=pazJN8cAAAAJ&hl=en
         - icon: fas fa-users
           url: https://intelagir-research-group.github.io/
-        - icon: fab fa-linked-in
+        - icon: fab fa-linkedin-in
           url: https://www.linkedin.com/in/michel-albonico-6012214a/
-        - icon: fa fa-video-camera
-          url: https://meet.google.com/thf-mrqq-spx
-
 
   # About
   about:
