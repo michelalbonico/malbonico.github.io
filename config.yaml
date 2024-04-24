@@ -143,7 +143,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/eu-robo.jpeg"
+    image: /images/eu-robo.jpg
     content: |-
       I am an Adjunct Associate Professor at the Technological Federal University of Paraná (UTFPR), Brazil, where 
       I teach software engineering and distributed programming courses. 
