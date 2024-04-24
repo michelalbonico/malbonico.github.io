@@ -143,9 +143,9 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.jpeg"
+    image: "/images/eu-robo.jpeg"
     content: |-
-      I am an Adjunct Associate Professor at the Technological Federal University of Paraná (UTFPR), Brazil. 
+      I am an Adjunct Associate Professor at the Technological Federal University of Paraná (UTFPR), Brazil, where 
       I teach software engineering and distributed programming courses. 
       I also lead the research group (IntelAgir), as well as technological and research projects.
       I hold my Ph.D. degree in Software Engineering from IMT Atlantique, Nantes, France. 
