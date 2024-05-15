@@ -297,29 +297,29 @@ params:
         url: https://example.com
 
   # projects
-  projects:
-    enable: false
-    # title: "Custom Name"
-    items:
-      - title: Research Projects
-        content: That is a mindmap of my research interests and projects. You can find more details about active projects on our Research Group Website (link below).
-        image: /images/ResearchMindMap.jpg
-        featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-            - icon: fa fa-external-link	
-              url: https://intelagir-research-group.github.io/pages/projects/
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  # projects:
+  #   enable: false
+  #   # title: "Custom Name"
+  #   items:
+  #     - title: Research Projects
+  #       content: That is a mindmap of my research interests and projects. You can find more details about active projects on our Research Group Website (link below).
+  #       image: /images/ResearchMindMap.jpg
+  #       featured:
+  #         name: Demo
+  #         link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Hugo"
+  #         - "Bootstrap"
+  #         - "Javascript"
+  #       links:
+  #           - icon: fa fa-external-link	
+  #             url: https://intelagir-research-group.github.io/pages/projects/
+  #         - icon: fa fa-envelope
+  #           url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/gurusabarish/hugo-profile
+  #         - icon: fab fa-twitter
+  #           url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       # - title: Image Converter
       #   content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
