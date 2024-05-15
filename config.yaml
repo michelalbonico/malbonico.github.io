@@ -298,11 +298,11 @@ params:
 
   # projects
   projects:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
       - title: Research Projects
-        content: Bellow, you find a mindmap of my research interests and projects, which will be later added to this page.
+        content: That is a mindmap of my research interests and projects. You can find more details about active projects on our Research Group Website (link below).
         image: /images/ResearchMindMap.jpg
         # featured:
         #   name: Demo
@@ -311,7 +311,9 @@ params:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
-        # links:
+        links:
+            - icon: fa fa-external-link	
+              url: https://intelagir-research-group.github.io/pages/projects/
         #   - icon: fa fa-envelope
         #     url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
         #   - icon: fab fa-github
