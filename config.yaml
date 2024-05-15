@@ -304,6 +304,8 @@ params:
       - title: Research Projects
         content: That is a mindmap of my research interests and projects. You can find more details about active projects on our Research Group Website (link below).
         image: /images/ResearchMindMap.jpg
+          width: 500
+          height: 400
         # featured:
         #   name: Demo
         #   link: https://hugo-profile.netlify.app
