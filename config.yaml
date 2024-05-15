@@ -353,7 +353,6 @@ params:
     enable: true
     # title: "Custom Name"
     content: I am always open for adventures and exciting collaborations! Look at my research interest mindmap!
-    image: /images/ResearchMindMap.jpg
     email: michelalbonico@utfpr.edu.br
     btnName: Mail me
     # formspree:
