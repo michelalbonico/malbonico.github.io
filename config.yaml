@@ -114,7 +114,7 @@ params:
     enable: true
     #intro: "Hi, I am"
     title: "Michel Albonico"
-    subtitle: "An Associate Professor at UTFPR, Brazil"
+    subtitle: "Associate Professor at UTFPR, Brazil"
     content: "I absolutely love teaching and diving into research. Being hands-on with cool tech and getting involved with software development really gets me going!"
     image: /images/me.jpeg
     bottomImage:
